@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hardeep Singh Pahwa</h1>
 <h3 align="center">A passionate mobile developer from India</h3>
 
-- 🔭 I’m currently working on [WeatherNow](https://github.com/hardeepsinghpahwa/Weather-Now) and [Tasty-A recipe app](https://github.com/hardeepsinghpahwa/Tasty_A_Recipe_App) 
+<!--- 🔭 I’m currently working on [WeatherNow](https://github.com/hardeepsinghpahwa/Weather-Now) and [Tasty-A recipe app](https://github.com/hardeepsinghpahwa/Tasty_A_Recipe_App) --->
 
-- 🌱 I’m currently learning **Hilt and courtines**
+- 🌱 I’m currently learning **Flutter Bloc**
 
 - 👯 I’m looking for freelance opportunities in **Flutter and android**
 
