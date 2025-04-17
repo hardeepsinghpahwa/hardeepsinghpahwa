@@ -3,7 +3,7 @@
 
 <!--- 🔭 I’m currently working on [WeatherNow](https://github.com/hardeepsinghpahwa/Weather-Now) and [Tasty-A recipe app](https://github.com/hardeepsinghpahwa/Tasty_A_Recipe_App) --->
 
-- 🌱 I’m currently learning **Flutter Bloc**
+- 🌱 I’m currently working as a Mobile developer.
 
 - 👯 I’m looking for freelance opportunities in **Flutter and android**
 
